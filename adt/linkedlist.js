@@ -1,4 +1,4 @@
-var Node = require('./node');
+;var Node = require('./node');
 
 var LinkedList = function(node){
   this.head = node;
